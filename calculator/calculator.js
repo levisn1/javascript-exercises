@@ -31,7 +31,7 @@ function multiply(array) {
 }
 
 function power(a,b) {
-return Math.pow(a, b);
+  return Math.pow(a, b);
 }
 
 function factorial(num) {
@@ -54,6 +54,6 @@ module.exports = {
 	subtract,
 	sum,
 	multiply,
-    power,
-	factorial
+  power,
+  factorial
 }
